@@ -1,16 +1,29 @@
-### Hi there 👋
+          
+## Olá, Bem vindo ao meu perfil do Github 👋
 
-<!--
-**andresazuim/andresazuim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá! Sou Andresa ZUi, um entusiasta da programação e estudante de Engenharia de Software em transição de carreira. Minha paixão por resolver problemas e criar soluções eficientes me impulsionou a explorar o vasto mundo do desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente...
+Atualmente, estou concentrando meus esforços no desenvolvimento backend, explorando as nuances e desafios que o ambiente oferece. Minhas linguagens de escolha incluem:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>  Golang
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> Node.js 
+
+## 📚 Aprendizado Contínuo
+Estou comprometida em aprimorar minhas habilidades constantemente. Além dos estudos acadêmicos em Engenharia de Software, estou mergulhando a fundo nas linguagens mencionadas acima. Meu objetivo é contribuir ativamente para projetos open source e aplicar os conhecimentos adquiridos em projetos práticos.
+
+## 🤝 Conecte-se
+Estou sempre aberto a novas oportunidades de aprendizado, colaboração e networking. Sinta-se à vontade para entrar em contato comigo para discutir ideias, compartilhar experiências ou colaborar em projetos interessantes!
+</br>
+<a href = "mailto:andresazuim37@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andresa-zuim/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+## 🌱 Próximos Passos
+Estou animado com os desafios que o desenvolvimento backend apresenta e estou ansioso para explorar ainda mais este campo fascinante. Meu compromisso com a excelência e a aprendizagem contínua continua a impulsionar minha jornada.
+
+Vamos construir algo incrível juntos! 🚀
+
+![Snake animation](https://github.com/andresazuim/andresazuim/blob/output/github-contribution-grid-snake.svg)
