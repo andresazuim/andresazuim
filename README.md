@@ -2,7 +2,7 @@
 ## Olá, Bem vindo ao meu perfil do Github 👋
 
 ## Sobre mim
-Olá! Sou Andresa ZUi, um entusiasta da programação e estudante de Engenharia de Software em transição de carreira. Minha paixão por resolver problemas e criar soluções eficientes me impulsionou a explorar o vasto mundo do desenvolvimento de software.
+Olá! Sou Andresa Zuim, um entusiasta da programação e estudante de Engenharia de Software em transição de carreira. Minha paixão por resolver problemas e criar soluções eficientes me impulsionou a explorar o vasto mundo do desenvolvimento de software.
 
 ## 🚀 Atualmente...
 Atualmente, estou concentrando meus esforços no desenvolvimento backend, explorando as nuances e desafios que o ambiente oferece. Minhas linguagens de escolha incluem:
