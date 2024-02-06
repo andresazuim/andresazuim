@@ -26,4 +26,4 @@ Estou animado com os desafios que o desenvolvimento backend apresenta e estou an
 
 Vamos construir algo incrível juntos! 🚀
 
-![Snake animation](https://github.com/andresazuim/andresazuim/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/andresazuim/andresazuim/blob/output/github-contribution-grid-snake.svg)
